@@ -1,17 +1,14 @@
 {
-  "roc_auc": 0.6916290726817043,
-  "avg_precision": 0.5779345648313037,
-  "f1_at_threshold": 0.7383177570093458,
-  "threshold": 0.4263999097763418,
+  "roc_auc": 0.6648621553884713,
+  "avg_precision": 0.5752353810456625,
+  "f1_at_threshold": 0.6703296703296703,
+  "threshold": 0.5153976179165495,
   "n_splits": 5,
   "n_samples": 200,
   "features": [
     "Age",
-    "Gender",
     "BMI",
     "BloodPressure",
-    "Insulin",
-    "Glucose",
-    "DiabetesPedigreeFunction"
+    "Glucose"
   ]
 }
